@@ -1,8 +1,3 @@
-PRAGMA foreign_keys = ON;
-
-DROP TABLE IF EXISTS stock_prices;
-DROP TABLE IF EXISTS companies;
-
 CREATE TABLE companies (
     id TEXT PRIMARY KEY,
     company_logo TEXT,
@@ -17,7 +12,6 @@ CREATE TABLE companies (
     roce_percentage REAL,
     roe_percentage REAL
 );
-
 CREATE TABLE stock_prices (
     id INTEGER PRIMARY KEY,
     company_id TEXT NOT NULL,
