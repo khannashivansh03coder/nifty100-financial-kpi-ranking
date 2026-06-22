@@ -1,0 +1,6 @@
+rule_name,table_name,status,details
+Primary Key Unique,companies,PASS,id column has no nulls and no duplicates
+Duplicate Rows,companies,PASS,No duplicate rows found
+Ticker Format,companies,PASS,All tickers follow allowed NSE format
+Missing Values Audit,companies,WARN,Missing values found in optional columns
+Numeric Business Rules,companies,PASS,Numeric columns contain valid non-negative values
