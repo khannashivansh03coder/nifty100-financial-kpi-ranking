@@ -33,3 +33,19 @@ def return_on_assets(net_profit: float, total_assets: float) -> Optional[float]:
     if total_assets == 0:
         return None
     return (net_profit / total_assets) * 100
+def current_ratio(current_assets, current_liabilities):
+    if current_liabilities == 0:
+        return None
+    return current_assets / current_liabilities
+
+
+def quick_ratio(current_assets, inventory, current_liabilities):
+    if current_liabilities == 0:
+        return None
+    return (current_assets - inventory) / current_liabilities
+
+
+def cash_ratio(cash_and_equivalents, current_liabilities):
+    if current_liabilities == 0:
+        return None
+    return cash_and_equivalents / current_liabilities
