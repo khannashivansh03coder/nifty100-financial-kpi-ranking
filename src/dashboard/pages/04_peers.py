@@ -7,6 +7,8 @@ from src.dashboard.utils.db import (
     get_companies
 )
 
+st.set_page_config(layout="wide")
+
 st.title("🤝 Peer Comparison")
 
 master = get_master()
@@ -19,7 +21,7 @@ years = sorted(master["year"].dropna().unique())
 selected_year = st.sidebar.selectbox(
     "Financial Year",
     years,
-    index=len(years)-1
+    index=len(years) - 1
 )
 
 master = master[
@@ -28,16 +30,12 @@ master = master[
 
 # ---------------- Peer Group ---------------- #
 
-if "peer_group" not in master.columns:
-
-    st.error(
-        "peer_group column not found in master dataset."
-    )
-
+if "peer_group_name" not in master.columns:
+    st.error("peer_group_name column not found in master dataset.")
     st.stop()
 
 peer_groups = sorted(
-    master["peer_group"].dropna().unique()
+    master["peer_group_name"].dropna().unique()
 )
 
 selected_group = st.selectbox(
@@ -46,14 +44,14 @@ selected_group = st.selectbox(
 )
 
 peer_df = master[
-    master["peer_group"] == selected_group
+    master["peer_group_name"] == selected_group
 ]
 
 # ---------------- Company ---------------- #
 
 company = st.selectbox(
     "Company",
-    sorted(peer_df["company_name"].unique())
+    sorted(peer_df["company_name"].dropna().unique())
 )
 
 company_df = peer_df[
@@ -61,9 +59,7 @@ company_df = peer_df[
 ]
 
 if company_df.empty:
-
     st.warning("No data available.")
-
     st.stop()
 
 company_df = company_df.iloc[0]
@@ -87,18 +83,11 @@ metrics = [
 ]
 
 company_values = []
-
 peer_values = []
 
 for metric in metrics:
-
-    company_values.append(
-        company_df[metric]
-    )
-
-    peer_values.append(
-        peer_df[metric].mean()
-    )
+    company_values.append(company_df[metric])
+    peer_values.append(peer_df[metric].mean())
 
 company_values.append(company_values[0])
 peer_values.append(peer_values[0])
@@ -126,13 +115,11 @@ fig.add_trace(
 )
 
 fig.update_layout(
-
     polar=dict(
         radialaxis=dict(
             visible=True
         )
     ),
-
     showlegend=True
 )
 
@@ -146,25 +133,15 @@ st.plotly_chart(
 st.subheader("Peer Comparison")
 
 cols = [
-
     "company_name",
-
     "return_on_equity_pct",
-
     "net_profit_margin_pct",
-
     "operating_profit_margin_pct",
-
     "debt_to_equity",
-
     "free_cash_flow_cr",
-
     "interest_coverage",
-
     "pe_ratio",
-
     "pb_ratio"
-
 ]
 
 cols = [
@@ -174,28 +151,17 @@ cols = [
 
 table = peer_df[cols]
 
+
 def highlight(row):
-
     if row["company_name"] == company:
+        return ["background-color:#D6F5D6"] * len(row)
+    return [""] * len(row)
 
-        return [
-            "background-color:#D6F5D6"
-        ] * len(row)
-
-    return [
-        ""
-    ] * len(row)
 
 st.dataframe(
-
     table.style.apply(
-
         highlight,
-
         axis=1
-
     ),
-
     use_container_width=True
-
 )
