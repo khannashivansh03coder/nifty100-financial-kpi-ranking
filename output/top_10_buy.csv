@@ -1,0 +1,13 @@
+rank,company_id,company_name,investment_score,risk_score,confidence_score,investment_grade,recommendation
+1,NESTLEIND,Nestle India Ltd,85,0,85.0,A+,BUY
+10,BHEL,"Bharat Heavy Electricals Limited
+",85,0,85.0,A+,BUY
+2,IRCTC,Indian Railway Catering & Tourism Corporation Ltd,85,0,85.0,A+,BUY
+16,INFY,Infosys Ltd,85,0,85.0,A+,BUY
+15,PIDILITIND,Pidilite Industries Ltd,85,0,85.0,A+,BUY
+14,ITC,"ITC Ltd
+",85,0,85.0,A+,BUY
+12,LTIM,LTIMindtree Ltd,85,0,85.0,A+,BUY
+11,TCS,Tata Consultancy Services Ltd,85,0,85.0,A+,BUY
+13,INDIGO,Interglobe Aviation Ltd,85,0,85.0,A+,BUY
+9,ABB,Abbott India Ltd,85,0,85.0,A+,BUY

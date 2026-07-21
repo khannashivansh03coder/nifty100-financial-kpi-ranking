@@ -1,0 +1,110 @@
+rank,company_id,company_name,investment_score,risk_score,confidence_score,investment_grade,recommendation
+1,NESTLEIND,Nestle India Ltd,85,0,85.0,A+,BUY
+2,IRCTC,Indian Railway Catering & Tourism Corporation Ltd,85,0,85.0,A+,BUY
+3,EICHERMOT,Eicher Motors Ltd,85,0,85.0,A+,BUY
+4,COALINDIA,Coal India Ltd,85,0,85.0,A+,BUY
+5,HINDUNILVR,"Hindustan Unilever Ltd
+",85,0,85.0,A+,BUY
+6,HEROMOTOCO,"Hero MotoCorp Ltd
+",85,0,85.0,A+,BUY
+7,HCLTECH,HCL Technologies Ltd,85,0,85.0,A+,BUY
+8,ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",85,0,85.0,A+,BUY
+9,ABB,Abbott India Ltd,85,0,85.0,A+,BUY
+10,BHEL,"Bharat Heavy Electricals Limited
+",85,0,85.0,A+,BUY
+11,TCS,Tata Consultancy Services Ltd,85,0,85.0,A+,BUY
+12,LTIM,LTIMindtree Ltd,85,0,85.0,A+,BUY
+13,INDIGO,Interglobe Aviation Ltd,85,0,85.0,A+,BUY
+14,ITC,"ITC Ltd
+",85,0,85.0,A+,BUY
+15,PIDILITIND,Pidilite Industries Ltd,85,0,85.0,A+,BUY
+16,INFY,Infosys Ltd,85,0,85.0,A+,BUY
+17,SIEMENS,Siemens Ltd,70,0,70.0,B,BUY
+18,DABUR,Dabur India Ltd,70,0,70.0,B,BUY
+19,SBILIFE,SBI Life Insurance Company Ltd,70,15,62.5,C,BUY
+20,SHREECEM,Shree Cement Ltd,65,0,65.0,B,HOLD
+21,BAJAJHLDNG,Bajaj Holdings & Investment Ltd,65,0,65.0,B,HOLD
+22,AMBUJACEM,Ambuja Cements Ltd,65,0,65.0,B,HOLD
+23,TORNTPHARM,Torrent Pharmaceuticals Ltd,65,25,52.5,C,HOLD
+24,BAJAJ-AUTO,Bajaj Auto Ltd,65,25,52.5,C,HOLD
+25,BOSCHLTD,Bosch Ltd,65,0,65.0,B,HOLD
+26,TECHM,Tech Mahindra Ltd,65,0,65.0,B,HOLD
+27,NAUKRI,Info Edge (India) Ltd,65,0,65.0,B,HOLD
+28,DIVISLAB,Divis Laboratories Ltd,65,0,65.0,B,HOLD
+29,DLF,DLF Ltd,65,20,55.0,C,HOLD
+30,BRITANNIA,Britannia Industries Ltd,55,15,47.5,D,HOLD
+31,BEL,Bharat Electronics Ltd,55,55,27.5,D,HOLD
+32,LICI,Life Insurance Corporation of India,55,45,32.5,D,HOLD
+33,BPCL,Bharat Petroleum Corporation Ltd,55,0,55.0,C,HOLD
+34,TVSMOTOR,TVS Motor Company Ltd,55,45,32.5,D,HOLD
+35,HAVELLS,Havells India Ltd,55,0,55.0,C,HOLD
+36,PNB,Punjab National Bank,55,45,32.5,D,HOLD
+37,ONGC,Oil & Natural Gas Corpn Ltd,50,0,50.0,C,HOLD
+38,NHPC,"NHPC Ltd
+",50,20,40.0,D,HOLD
+39,ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",50,30,35.0,D,HOLD
+40,HAL,Hindustan Aeronautics Ltd,50,50,25.0,D,HOLD
+41,JIOFIN,Jio Financial Services Ltd,50,45,27.5,D,HOLD
+42,MARUTI,Maruti Suzuki India Ltd,50,35,32.5,D,HOLD
+43,ICICIGI,ICICI Lombard General Insurance Company Ltd,50,0,50.0,C,HOLD
+44,TATACONSUM,Tata Consumer Products Ltd,50,20,40.0,D,HOLD
+45,TRENT,Trent Ltd,50,35,32.5,D,HOLD
+46,GODREJCP,Godrej Consumer Products Ltd,50,25,37.5,D,HOLD
+47,JSWENERGY,JSW Energy Ltd,50,30,35.0,D,HOLD
+48,LT,Larsen & Toubro Ltd,50,25,37.5,D,HOLD
+49,DRREDDY,Dr Reddys Laboratories Ltd,50,25,37.5,D,HOLD
+50,SUNPHARMA,Sun Pharmaceuticals Industries Ltd,45,25,32.5,D,HOLD
+51,ULTRACEMCO,,45,25,32.5,D,HOLD
+52,CIPLA,"Cipla Ltd
+",45,25,32.5,D,HOLD
+53,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,35,50,10.0,D,SELL
+54,HINDALCO,Hindalco Industries Ltd,35,15,27.5,D,SELL
+55,MOTHERSON,Samvardhana Motherson International Ltd,35,45,12.5,D,SELL
+56,HDFCLIFE,HDFC Life Insurance Company Ltd,35,15,27.5,D,SELL
+57,GAIL,GAIL (India) Ltd,35,0,35.0,D,SELL
+58,APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",35,65,2.5,D,SELL
+59,BAJAJFINSV,Bajaj Finserv Ltd,35,80,0.0,D,SELL
+60,UNIONBANK,,35,65,2.5,D,SELL
+61,JSWSTEEL,JSW Steel Ltd,35,30,20.0,D,SELL
+62,IOC,"Indian Oil Corporation
+",35,35,17.5,D,SELL
+63,TATASTEEL,"Tata Steel Ltd
+",35,65,2.5,D,SELL
+64,BHARTIARTL,Bharti Airtel Ltd,35,65,2.5,D,SELL
+65,RELIANCE,"Reliance Industries Ltd
+",35,20,25.0,D,SELL
+66,TATAPOWER,"Tata Power Company Ltd
+",35,30,20.0,D,SELL
+67,TITAN,"Titan Company Ltd
+",35,25,22.5,D,SELL
+68,POWERGRID,Power Grid Corporation of India Ltd,30,55,2.5,D,SELL
+69,NTPC,NTPC Ltd,30,55,2.5,D,SELL
+70,ICICIBANK,ICICI Bank Ltd,30,55,2.5,D,SELL
+71,AXISBANK,Axis Bank Ltd,30,55,2.5,D,SELL
+72,JINDALSTEL,Jindal Steel & Power Ltd,30,55,2.5,D,SELL
+73,KOTAKBANK,"Kotak Mahindra Bank Ltd
+",30,55,2.5,D,SELL
+74,M&M,"Mahindra & Mahindra Ltd
+",20,80,0.0,D,SELL
+75,CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,15,80,0.0,D,SELL
+76,IRFC,Indian Railway Finance Corporation Ltd,15,100,0.0,D,SELL
+77,LODHA,Macrotech Developers Ltd,15,55,0.0,D,SELL
+78,DMART,Avenue Supermarts Ltd,15,40,0.0,D,SELL
+79,PFC,Power Finance Corporation Ltd,15,80,0.0,D,SELL
+80,RECLTD,REC Ltd,15,80,0.0,D,SELL
+81,ADANIENSOL,Adani Energy Solutions Ltd,15,20,5.0,D,SELL
+82,INDUSINDBK,IndusInd Bank Ltd,15,80,0.0,D,SELL
+83,TATAMOTORS,Tata Motors Ltd,15,70,0.0,D,SELL
+84,SHRIRAMFIN,"Shriram Finance Ltd
+",15,80,0.0,D,SELL
+85,HDFCBANK,HDFC Bank Ltd,15,80,0.0,D,SELL
+86,BAJFINANCE,Bajaj Finance Ltd,15,80,0.0,D,SELL
+87,ADANIGREEN,Adani Green Energy Ltd,15,90,0.0,D,SELL
+88,ADANIPOWER,Adani Power Ltd,15,90,0.0,D,SELL
+89,ADANIENT,Adani Enterprises Ltd,15,90,0.0,D,SELL
+90,BANKBARODA,Bank of Baroda,15,80,0.0,D,SELL
+91,CANBK,Canara Bank,0,115,0.0,D,SELL
+92,GRASIM,Grasim Industries Ltd,0,80,0.0,D,SELL
