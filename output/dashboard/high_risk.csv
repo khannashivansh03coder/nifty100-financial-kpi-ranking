@@ -1,0 +1,12 @@
+rank,company_id,company_name,investment_score,risk_score,confidence_score,investment_grade,recommendation
+91,CANBK,Canara Bank,0,115,0.0,D,SELL
+76,IRFC,Indian Railway Finance Corporation Ltd,15,100,0.0,D,SELL
+89,ADANIENT,Adani Enterprises Ltd,15,90,0.0,D,SELL
+88,ADANIPOWER,Adani Power Ltd,15,90,0.0,D,SELL
+87,ADANIGREEN,Adani Green Energy Ltd,15,90,0.0,D,SELL
+92,GRASIM,Grasim Industries Ltd,0,80,0.0,D,SELL
+80,RECLTD,REC Ltd,15,80,0.0,D,SELL
+74,M&M,"Mahindra & Mahindra Ltd
+",20,80,0.0,D,SELL
+75,CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,15,80,0.0,D,SELL
+59,BAJAJFINSV,Bajaj Finserv Ltd,35,80,0.0,D,SELL
