@@ -1,0 +1,110 @@
+company_id,company_name,return_on_equity_pct,debt_to_equity,operating_profit_margin_pct,asset_turnover,free_cash_flow_cr
+NESTLEIND,Nestle India Ltd,117.75,0.1033,24.0,2.3182,2938.0
+NHPC,"NHPC Ltd
+",9.64,0.6827,65.0,0.1023,1516.0
+NAUKRI,Info Edge (India) Ltd,12.5,0.0016,26.0,0.5721,29.0
+MOTHERSON,Samvardhana Motherson International Ltd,19.75,2.1424,6.0,1.9859,397.0
+MARUTI,Maruti Suzuki India Ltd,7.01,0.0077,7.0,1.1832,1601.0
+NTPC,NTPC Ltd,10.02,1.708,29.0,0.2899,-5738.0
+ONGC,Oil & Natural Gas Corpn Ltd,16.94,0.4544,17.0,0.8332,42060.0
+PIDILITIND,Pidilite Industries Ltd,25.68,0.0672,15.0,1.406,328.0
+PFC,Power Finance Corporation Ltd,18.74,5.8899,35.0,0.1023,-25080.0
+JINDALSTEL,Jindal Steel & Power Ltd,13.89,1.1584,31.0,0.347,-6069.0
+ITC,"ITC Ltd
+",28.16,0.0044,36.0,0.8263,13146.0
+IRFC,Indian Railway Finance Corporation Ltd,7.37,7.5925,99.0,0.0693,-16376.0
+INFY,Infosys Ltd,24.82,0.0,29.0,0.872,4451.0
+JIOFIN,Jio Financial Services Ltd,1.15,0.0,84.0,0.0128,763.0
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,29.5,0.0,14.0,0.9114,23.0
+IOC,"Indian Oil Corporation
+",7.08,0.9428,2.0,1.9219,35877.0
+LODHA,Macrotech Developers Ltd,17.69,3.4823,26.0,0.2663,-467.0
+LTIM,LTIMindtree Ltd,41.97,0.1748,23.0,1.6542,384.0
+LT,Larsen & Toubro Ltd,201.59,0.1688,17.0,16.5005,-1714.0
+M&M,"Mahindra & Mahindra Ltd
+",22.11,1.5089,14.0,0.842,-4768.0
+JSWENERGY,JSW Energy Ltd,15.05,1.5315,41.0,0.3442,266.0
+LICI,Life Insurance Corporation of India,324.32,332.5938,1.0,0.1668,22910.0
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",14.66,5.6043,-1789.0,0.0936,-6157.0
+JSWSTEEL,JSW Steel Ltd,16.84,1.3342,25.0,0.5383,11087.0
+TECHM,Tech Mahindra Ltd,17.87,0.1682,15.0,0.9879,5439.0
+TATAPOWER,"Tata Power Company Ltd
+",13.23,1.6593,17.0,0.4419,3569.0
+TCS,Tata Consultancy Services Ltd,36.52,0.0086,29.0,1.2129,5577.0
+TATASTEEL,"Tata Steel Ltd
+",-21.28,2.0054,3.0,0.9172,936.0
+ULTRACEMCO,,17.65,0.4821,24.0,0.6935,-744.0
+UNIONBANK,,-20.64,18.0567,-36.0,0.0671,5782.0
+TORNTPHARM,Torrent Pharmaceuticals Ltd,30.59,0.4873,22.0,0.8535,-94.0
+TITAN,"Titan Company Ltd
+",27.63,0.7904,12.0,1.5017,-444.0
+TVSMOTOR,TVS Motor Company Ltd,22.02,1.188,6.0,2.2212,344.0
+TRENT,Trent Ltd,3.76,0.2732,5.0,0.7816,11.0
+RECLTD,REC Ltd,14.05,8.0879,87.0,0.0863,-32591.0
+POWERGRID,Power Grid Corporation of India Ltd,16.34,2.6222,83.0,0.1154,-10394.0
+PNB,Punjab National Bank,30.67,4.8956,,1.3,21860.0
+RELIANCE,"Reliance Industries Ltd
+",9.96,0.5785,18.0,0.5123,45207.0
+TATACONSUM,Tata Consumer Products Ltd,9.25,0.2888,10.0,0.8359,197.0
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,15.2,0.123,27.0,0.5437,-2261.0
+TATAMOTORS,Tata Motors Ltd,13.02,1.3538,11.0,0.9894,-9372.0
+SBILIFE,SBI Life Insurance Company Ltd,20.09,0.0,3.0,0.3157,2533.0
+SIEMENS,Siemens Ltd,22.75,0.0,10.0,1.1769,267.0
+SHRIRAMFIN,"Shriram Finance Ltd
+",19.94,4.5497,31.0,0.1483,-8400.0
+SHREECEM,Shree Cement Ltd,15.18,0.1448,30.0,0.6303,1603.0
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,17.94,0.0,95.0,0.0313,104.0
+BAJAJFINSV,Bajaj Finserv Ltd,25.85,4.7894,37.0,0.2054,-79634.0
+AXISBANK,Axis Bank Ltd,15.62,8.9346,1353.0,0.0798,-8366.0
+BAJAJ-AUTO,Bajaj Auto Ltd,22.84,0.0067,20.0,1.0054,-343.0
+BHEL,"Bharat Heavy Electricals Limited
+",21.91,0.0883,19.0,0.6809,646.0
+BOSCHLTD,Bosch Ltd,16.06,0.0052,19.0,0.7803,323.0
+BAJFINANCE,Bajaj Finance Ltd,11.97,3.5656,6314.0,0.1556,-1236.0
+BANKBARODA,Bank of Baroda,15.76,12.1437,4102.0,0.0715,-7559.0
+BEL,Bharat Electronics Ltd,15183.33,4.0,11.0,139.4,214.0
+BHARTIARTL,Bharti Airtel Ltd,5.050000000000001,1.2701,31.0,0.4731,1052.0
+ADANIGREEN,Adani Green Energy Ltd,-3.91,3.6135,80.0,0.0815,-1483.0
+ADANIENT,Adani Enterprises Ltd,5.69,3.2404,13.0,0.4145,-7124.0
+ADANIENSOL,Adani Energy Solutions Ltd,0.0,0.0,,,0.0
+ABB,Abbott India Ltd,28.33,0.0539,22.0,1.1631,161.0
+AMBUJACEM,Ambuja Cements Ltd,14.69,0.0068,25.0,0.7897,1472.0
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",6.0,1.1017,11.0,1.0492,194.0
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",23.31,0.1394,20.0,1.1841,1552.0
+ADANIPOWER,Adani Power Ltd,-53.45999999999999,9.7356,14.0,0.1224,-1063.0
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",14.87,1.188,50.0,0.1918,6653.0
+BPCL,Bharat Petroleum Corporation Ltd,35.51000000000001,0.7219,10.0,2.2137,25415.0
+HDFCLIFE,HDFC Life Insurance Company Ltd,33.43,0.0,525.0,0.3354,
+HDFCBANK,HDFC Bank Ltd,15.43,7.217,20795.0,0.064,-14011.0
+HCLTECH,HCL Technologies Ltd,30.69,0.0793,22.0,1.1421,2131.0
+GRASIM,Grasim Industries Ltd,11.2,1.5471,21.0,0.3178,-33833.0
+HAVELLS,Havells India Ltd,40.29,0.681,9.0,1.6005,494.0
+HAL,Hindustan Aeronautics Ltd,1528.46,0.0231,19.0,111.5602,-140.0
+ICICIGI,ICICI Lombard General Insurance Company Ltd,15.72,0.0029,2577.0,0.3236,486.0
+INDUSINDBK,IndusInd Bank Ltd,13.91,8.3324,286.0,0.0953,-660.0
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,38.25,0.0,745.0,0.2662,-1077.0
+HEROMOTOCO,"Hero MotoCorp Ltd
+",31.09,0.019,5334.0,1.8657,2159.0
+ICICIBANK,ICICI Bank Ltd,14.73,7.0919,-15085.0,0.0665,-1069.0
+HINDUNILVR,"Hindustan Unilever Ltd
+",134.0,0.0087,4220.0,2.2332,3668.0
+HINDALCO,Hindalco Industries Ltd,10.65,0.6359,22666.0,0.9987,11649.0
+DABUR,Dabur India Ltd,36.56,0.5494,16.0,1.3039,248.0
+COALINDIA,Coal India Ltd,51.93,0.2001,21581.0,0.6404,6010.0
+CIPLA,"Cipla Ltd
+",17.13,0.1072,2214.0,0.7102,-665.0
+BRITANNIA,Britannia Industries Ltd,46.59,0.681,7.0,3.2847,348.0
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,15.78,7.8222,472.0,0.141,-3749.0
+CANBK,Canara Bank,-10.5,15.2792,-13350.0,0.0655,-11607.0
+GODREJCP,Godrej Consumer Products Ltd,25.51,0.7413,16.0,0.8333,-45.0
+GAIL,GAIL (India) Ltd,14.75,0.5711,13.0,0.9237,149.0
+EICHERMOT,Eicher Motors Ltd,22.17,0.0232,26.0,0.7154,890.0
+DIVISLAB,Divis Laboratories Ltd,19.79,0.0067,36.0,0.6603,10.0
+DRREDDY,Dr Reddys Laboratories Ltd,23.98,0.5781,23.0,0.8844,-59.0
+DMART,Avenue Supermarts Ltd,11.91,0.6667,6.0,2.2393,-104.0
+DLF,DLF Ltd,4.130000000000001,0.115,30.0,0.1117,3099.0
+INDIGO,Interglobe Aviation Ltd,892.57,0.0186,16331.0,56.3863,9424.0
