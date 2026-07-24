@@ -1,0 +1,7 @@
+cluster_name,company_id,company_name,distance_from_centroid,return_on_equity_pct,debt_to_equity,operating_profit_margin_pct,asset_turnover,free_cash_flow_cr
+High Growth,GRASIM,Grasim Industries Ltd,0.6495534209896887,11.2,1.5471,21.0,0.3178,-33833.0
+High Risk,COALINDIA,Coal India Ltd,0.8044895184684664,51.93,0.2001,21581.0,0.6404,6010.0
+Stable,LICI,Life Insurance Corporation of India,0.0,324.32,332.5938,1.0,0.1668,22910.0
+Turnaround,BEL,Bharat Electronics Ltd,4.382705745143477,15183.33,4.0,11.0,139.4,214.0
+Value,ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",0.0551109144322891,23.31,0.1394,20.0,1.1841,1552.0
